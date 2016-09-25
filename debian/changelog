@@ -1,0 +1,5 @@
+roboy-ros-control-hardware (0.0.0-1) xenial; urgency=low
+
+  * Initial release 
+
+ -- Simon Trendel <simon.trendel@tum.de>  Sun, 25 Sep 2016 17:26:56 +0200
