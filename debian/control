@@ -2,7 +2,7 @@ Source: roboy-ros-control-hardware
 Section: misc
 Priority: extra
 Maintainer: Simon Trendel <simon.trendel@tum.de>
-Build-Depends: debhelper (>= 9.0.0), ros-jade
+Build-Depends: debhelper (>= 9.0.0), ros-jade, catkin, pkg-config, libncurses5-dev, libboost-all-dev, libtinyxml-dev, libconsole-bridge-dev, libpoco-dev, liblz4-dev, libbz2-dev, libeigen3-dev, python-sip-dev, libbullet-dev, liburdfdom-headers-dev, libyaml-cpp-dev, libcollada-dom2.4-dp-dev, uuid-dev, python-rospkg, liburdfdom-dev, python-nose, libassimp-dev, liboctomap-dev, libqhull-dev, libopencv-dev, python-numpy 
 Homepage: https://github.com/Roboy/roboy-ros-control-hardware
 Standards-Version: 3.9.7
 

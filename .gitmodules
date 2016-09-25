@@ -7,3 +7,6 @@
 [submodule "src/roboy_hardware"]
 	path = src/roboy_hardware
 	url = https://github.com/Roboy/roboy_hardware
+[submodule "src/roboy_controller"]
+	path = src/roboy_controller
+	url = https://github.com/Roboy/roboy_controller
